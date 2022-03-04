@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=vincent staff
+chmod vincent:staff
